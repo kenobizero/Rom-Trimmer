@@ -1,2 +1,2 @@
-# NDS-Trimmer
-Trim the rom for compress rom ds 
+# Rom-Trimmer
+Trim the rom for compress rom 
